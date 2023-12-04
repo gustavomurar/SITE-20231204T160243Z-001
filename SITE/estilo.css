@@ -1,0 +1,14 @@
+#texto{
+    text-align: center;
+}
+
+#trabalho{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin: 0px 200px;
+}
+
+.footer { 
+    background-color: #69d2e7; 
+    text-align: center; 
+} 
